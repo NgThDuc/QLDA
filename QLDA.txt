@@ -36,5 +36,9 @@ Moneу Ɩ get sum mo’ bỏ ngoài tai tất cả lời khó hiểu
 Ɓởi vì anh không thích sống không real
 
 Ryhder
+  <<<<<<< duc43
 
-2 3 con mực
+  2 3 con mực
+   =======
+  1 2 3
+  >>>>>>> main
